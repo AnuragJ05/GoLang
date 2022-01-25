@@ -1,0 +1,8 @@
+Go Lang-
+Pros
+1)simple syntax
+2)does't have unnecessary features
+3)concurrency - goroutine and channels
+4)compiled language -  compiled to a native binary
+5)Garbage collection
+6)Composition
